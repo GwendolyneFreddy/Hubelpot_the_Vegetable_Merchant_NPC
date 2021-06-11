@@ -1,8 +1,11 @@
 
 ![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC?include_prereleases&color=darkred)<a name="top" id="top">
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC?color=gold)
-![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
+![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macOS%20%7C%20linux%20%7C%20Project%20Infinity&color=informational)
 ![Language](https://img.shields.io/static/v1?label=language&message=English&color=limegreen)
+
+![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BGII:ToB%20%7C%20BGT%20%7C%20BG2%3AEE%20%7C%20EET&color=dodgerblue)
+
 
 <div align="center"><h1></a>Hubelpot the Vegetable Merchant NPC Mod</h1>
 
@@ -14,7 +17,10 @@ Baldur's Gate Trilogy, BG2:EE and EET<h3>
 
 **Authors:** Robert Dorf (aka BobTokyo) and Sebastian Conrad (SConrad)  
 **Mod Website:** <a href="http://www.spellholdstudios.net/ie/hubelpot">Spellhold Studios</a>  
-**Mod Forum:** <a href="http://www.shsforums.net/forum/156-hubelpot/">Hubelpot the Vegetable Merchant</a><br>
+**Mod Forum:** <a href="http://www.shsforums.net/forum/156-hubelpot/">Hubelpot the Vegetable Merchant</a>
+
+
+## 
 
 [![Created Badge](https://badges.pufler.dev/created/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC?style=plastic)](https://badges.pufler.dev)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC?style=plastic)
@@ -24,9 +30,9 @@ Baldur's Gate Trilogy, BG2:EE and EET<h3>
 
 ## 
 
-[Read the mod's readme](https://spellholdstudios.github.io/readmes/hubelpot-readme-english.html)
+:page_facing_up: [Read the mod's readme](https://spellholdstudios.github.io/readmes/hubelpot-readme-english.html)
 
-[Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/31-hubelpot-the-vegetable-merchant/)<br>
+:inbox_tray: [Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/31-hubelpot-the-vegetable-merchant/)<br>
 
 ## 
 
@@ -116,9 +122,9 @@ Run **`setup-hubelpot.exe`** in your game folder to reinstall, un-install or oth
 
 ## 
 
-#### Mac OS X
+#### macOS
 
-Hubelpot for Mac OS X is distributed is distributed in the same compressed archive and includes a WeiDU installer.
+Hubelpot for macOS is distributed is distributed in the same compressed archive and includes a WeiDU installer.
 
 First, extract the files from the archive into your game directory. On successful extraction, there should be a :file_folder: hubelpot folder, setup-hubelpot and setup-hubelpot.command files in your game folder. To install, simply double-click **`setup-hubelpot.command`** and follow the instructions on screen.
 
